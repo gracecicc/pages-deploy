@@ -1,4 +1,4 @@
 # pages-deploy
 Example of using GitHub CD to deploy a webpage
 
-[About](https://gracecicc.github.io/pages-deploy/about, About)
+[About](https://gracecicc.github.io/pages-deploy/about)
